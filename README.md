@@ -18,4 +18,4 @@ Uninstall
 ```
 $ rm GOPATH/bin/go-hello-world
 ```
-
+test
